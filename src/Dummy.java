@@ -12,8 +12,4 @@ public class Dummy {
 	public String AllowedStr(){
 		return "ALLOW";
 	}
-	
-	public String Information() {
-		return "information";
-	}
 }
