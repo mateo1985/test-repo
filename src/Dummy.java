@@ -14,7 +14,12 @@ public class Dummy {
 	}
 	
 	public String Information() {
-		log.information('test ABC');
-		return "inf";
+		int i = 5;
+		while ( i > 5 ) {
+			console.log("test inforation");
+			i--;
+			
+		}
+		return "information";
 	}
 }
