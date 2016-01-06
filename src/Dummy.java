@@ -14,6 +14,12 @@ public class Dummy {
 	}
 	
 	public String Information() {
+		int i = 5;
+		while ( i > 5 ) {
+			console.log("test inforation");
+			i--;
+			
+		}
 		return "information";
 	}
 }
