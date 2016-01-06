@@ -6,6 +6,10 @@ public class Dummy {
 	}
 	
 	public Integer getAge() {
-		return 25;
+		return 130;
+	}
+	
+	public String AllowedStr(){
+		return "ALLOW";
 	}
 }
