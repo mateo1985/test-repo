@@ -12,4 +12,9 @@ public class Dummy {
 	public String AllowedStr(){
 		return "ALLOW";
 	}
+	
+	public String Information() {
+		log.information('test ABC');
+		return "inf";
+	}
 }
