@@ -8,4 +8,8 @@ public class Dummy {
 	public Integer getAge() {
 		return 25;
 	}
+	
+	public String Information() {
+		return "information";
+	}
 }
